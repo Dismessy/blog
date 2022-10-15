@@ -1,13 +1,14 @@
 ---
-title: Hello World
+title: If You Want To Know Me A Lot
 description: Welcome to Hugo Theme Stack
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2022-10-14 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - Experience
 tags:
-    - Example Tag
+    - MBTI
+    - Hobby
 ---
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
