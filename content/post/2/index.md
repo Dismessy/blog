@@ -2,7 +2,7 @@
 title: Contact
 description: Feel free to contact me
 slug: first-post
-date: 2022-03-06 00:00:00+0000
+date: 2022-10-16 09:00:00+0000
 image: cover.jpg
 categories:
     - Example Category

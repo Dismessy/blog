@@ -3,6 +3,7 @@ title: Education
 description: Macau University of Science and Technology
 slug: first-pos
 date: 2022-10-16 09:00:00+0000
+image: cover.jpg
 categories:
     - Education
     - My University
