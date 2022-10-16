@@ -18,9 +18,3 @@ tags:
 - Top 20 universities across the Taiwan Straits and Hong Kong and Macao
 
 
-
-![image-20221016153503202](C:\Users\Hydra\AppData\Roaming\Typora\typora-user-images\image-20221016153503202.png)
-
-
-
-![image-20221016153405563](C:\Users\Hydra\AppData\Roaming\Typora\typora-user-images\image-20221016153405563.png)
