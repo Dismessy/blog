@@ -1,9 +1,8 @@
 ---
 title: Education
 description: Macau University of Science and Technology
-slug: first-post
-date: 2022-03-06 00:00:00+0000
-image: cover.jpg
+slug: first-pos
+date: 2022-10-16 09:00:00+0000
 categories:
     - Education
     - My University
