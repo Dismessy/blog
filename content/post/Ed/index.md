@@ -1,5 +1,5 @@
 ---
-title: Education 
+title: Education.
 description: Macau University of Science and Technology
 slug: hello-world
 date: 2022-10-14 00:00:00+0000

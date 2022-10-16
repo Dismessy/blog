@@ -1,5 +1,5 @@
 ---
-title: My Personality, My Hobbies
+title: My Personality, My Hobbies.
 description: If You Want To Know Me A Lot
 slug: hello-world
 date: 2022-10-14 00:00:00+0000
