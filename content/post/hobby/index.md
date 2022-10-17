@@ -17,13 +17,13 @@ tags:
 
 ### painting
 
-> I sometimes draw original characters 👇![b8a6981af0ea01c8714e67d3fe71f45](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\b8a6981af0ea01c8714e67d3fe71f45.jpg)
+> I sometimes draw original characters 👇![b8a6981af0ea01c8714e67d3fe71f45](11.jpg)
 >
 > This is a blackboard poster I drew in junior high school 👇
 >
-> ![98b3b9e5f9dfb2b00fd83817071ad67](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\98b3b9e5f9dfb2b00fd83817071ad67.jpg)
+> ![98b3b9e5f9dfb2b00fd83817071ad67](22.jpg)
 >
-> I also do a few doodles during breaks 👇![ee0825271297cb6620d373caede8e6d](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\ee0825271297cb6620d373caede8e6d.jpg)
+> I also do a few doodles during breaks 👇![ee0825271297cb6620d373caede8e6d](33.jpg)
 
 ### Original design
 
@@ -31,39 +31,43 @@ tags:
 >
 > ![1](1.jpg)
 >
-> ![abab07f1b90894f0aada8be85ac0d6d](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\abab07f1b90894f0aada8be85ac0d6d.png)
+> ![abab07f1b90894f0aada8be85ac0d6d](44.jpg)
 >
-> ![1d71336d0c1a9852e98dccbf88deebb](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\1d71336d0c1a9852e98dccbf88deebb.png)
+> ![1d71336d0c1a9852e98dccbf88deebb](55.jpg)
 >
 > ### **shooting**
 
-> The weight of the sniper rifle keeps me safe and high![73206766c767b0aba837c1061870fb3](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\73206766c767b0aba837c1061870fb3.jpg)
+> The weight of the sniper rifle keeps me safe and high![73206766c767b0aba837c1061870fb3](66.jpg)
 
  ### Role-playing game/First-person shooting game
 
 > I got top 500  China servers in the 11th and 12th seasons of Overwatch👇
 >
-> ![46890ea2581d4b91419d0f3bd1d65db](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\46890ea2581d4b91419d0f3bd1d65db.jpg)
+> ![46890ea2581d4b91419d0f3bd1d65db](77.jpg)
 
  ### pet
 
 > I love small animals and have Caucasian dogs, Siamese cats, flower mice, sugar gliders and Canopies
 >
-> ![dd6b5c3f2edfb769038701dbd9b5668](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\dd6b5c3f2edfb769038701dbd9b5668.jpg)![8b22f9cac65d5700e6068a7d19b78c3](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\8b22f9cac65d5700e6068a7d19b78c3.jpg)
+> ![99](99.jpg)
 >
->  ### carving
+> ![88](88.jpg)
 >
-> > I sometimes carve some seals
+> ### carving
+>
+> > I sometimes carve some seals👇
 > >
-> > ![f27640360d227f7c19e0ca72f18f5e9](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\f27640360d227f7c19e0ca72f18f5e9.jpg)
+> > ![f27640360d227f7c19e0ca72f18f5e9](10.jpg)
 >
 >  ### clay
 >
-> > I sometimes pinch the clay![df7ce62dfc392da8ffa4afa7cefa075](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\df7ce62dfc392da8ffa4afa7cefa075.jpg)
+> > I sometimes pinch the clay👇
+> >
+> > ![12](12.jpg)
 >
 >  ### Sculpturing modeling
-> >I love cartoon characters, so I use Nomad to model them
+> >I love cartoon characters, so I use Nomad to model them👇
 > > 
-> >![ca25428c9f4712815d90abccfb3ae86](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\ca25428c9f4712815d90abccfb3ae86.jpg)
+> >![34](34.jpg)
 
 > 
