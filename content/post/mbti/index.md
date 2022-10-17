@@ -15,7 +15,7 @@ tags:
 
 ## About Me
 
-![enfj.jpg](https://wx2.sinaimg.cn/mw2000/007jG27Egy1h78ehvkeanj30sb0bvmxu.jpg)
+![enfj.jpg](/enfj.jpg)
 
 
 
