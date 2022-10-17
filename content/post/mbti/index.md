@@ -15,7 +15,7 @@ tags:
 
 ## About Me
 
-![avatar](C:\Users\Hydra\Desktop\blog\content\post\mbti\enfj.jpg)
+![avatar](https://i.postimg.cc/8Pdk9L71/enfj.jpg)
 
 ![avater](C:\Users\Hydra\Desktop\blog\content\post\mbti\微信图片_20221014143020.png)
 
