@@ -2,7 +2,7 @@
 title: My story
 description: Personal interests
 slug: first-pos
-date: 2022-10-17 09:00:00+0000
+date: 2022-10-16 09:00:00+0000
 image: cover.jpg
 categories:
     - Hobby
@@ -29,7 +29,7 @@ tags:
 
 > I like to use ps or ai for text typesetting and design👇
 >
-> ![01caffeab447a6ddef6514c53ba4692](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\01caffeab447a6ddef6514c53ba4692.png)
+> ![1](1.jpg)
 >
 > ![abab07f1b90894f0aada8be85ac0d6d](C:\Users\Hydra\AppData\Local\Temp\WeChat Files\abab07f1b90894f0aada8be85ac0d6d.png)
 >
