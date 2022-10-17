@@ -13,6 +13,4 @@ tags:
 
 #### My email address:<19098537B011049@student.must.edu.mo>
 
-#### My mobile phone：+86-13199120666
-
-#### 								     +86-13512653555
+#### My mobile phone：+86-13199120666 
