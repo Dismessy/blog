@@ -2,7 +2,7 @@
 title: My Personality, My Hobbies.
 description: If You Want To Know Me A Lot
 slug: hello-world
-date: 2022-10-14 00:00:00+0000
+date: 2022-10-19 00:00:00+0000
 image: cover.jpg
 categories:
     - Experience
