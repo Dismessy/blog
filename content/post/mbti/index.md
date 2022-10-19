@@ -1,25 +1,24 @@
 ---
-title: My Personality, My Hobbies.
+title: My Personality
 description: If You Want To Know Me A Lot
 slug: first-world
 date: 2022-10-17 00:00:00+0000
 image: cover.jpg
 categories:
     - Experience
-    - Hobby
     - MBTI
 tags:
     - MBTI
-    - Hobby
+   
 ---
 
 ## About Me
 
-![enfj.jpg](/enfj.jpg)
+![](enfj.jpg)
 
 
 
-![enfj2](https://wx4.sinaimg.cn/mw2000/007jG27Egy1h78ehvs31zj30sb0bvjw8.jpg)
+![enfj2](enfj2.png)
 
 - ENFJ stands for: extroversion (E)+ intuition (N)+ emotion (F)+ judgment (J). 
 - ENFJ refers to the supplier.

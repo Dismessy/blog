@@ -12,6 +12,8 @@ tags:
 
 ## 
 
+------
+
 ## **EDUCATION**
 
 #### **Macau University of Science and Technology Business School**
@@ -62,7 +64,7 @@ tags:
 
 ## **PROJECTS**
 
-**Financial Investment Analysis Practical Training       **
+##### **Financial Investment Analysis Practical Training       **
 
 > Chose ten stocks in different sectors to conduct portfolio analysis using Mean-Variance Analysis and Efficient Frontier
 >
@@ -71,7 +73,7 @@ tags:
 > Divided returns into 21 stocks based on Markowitz portfolio theory, calculated the corresponding minimum risk for each stock and plotted the risk-return
 >
 
-**KPMG Business Competition| Team Leader | Macau, China                   **
+##### **KPMG Business Competition                    **
 
 > Collected relevant data to assess the dynamics of ByteDance and attempted to give global strategy recommendations
 >
