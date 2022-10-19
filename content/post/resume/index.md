@@ -1,5 +1,5 @@
 ---
-title: My Resu
+title: My Resume
 description: If You Want To Know Me A Lot
 slug: hydra-huo
 date: 2022-10-18 00:00:00+0000
@@ -14,17 +14,15 @@ tags:
 
 ## **EDUCATION**
 
-------
-
 #### **Macau University of Science and Technology Business School**
 
 ***Bachelor of Business Administration in Marketing***
 
 ##### **Major Courses:** Management Mathematics, Microeconomics, Macroeconomics, Finance, Management Accounting, Financial Accounting, Marketing, Strategic Management, etc.
 
-## **INTERNSHIPS**   
-
 ------
+
+## **INTERNSHIPS**   
 
 ##### Baidu | Human Resources Intern | Beijing, China 
 
@@ -46,9 +44,9 @@ tags:
 >
 > Assist in planning the meeting activities of "100 Enterprises" large-scale employment college, export the activity planning scheme and participate in the implementation of the activity site.
 
-## **ACADEMIC RESEARCH**  
-
 ------
+
+## **ACADEMIC RESEARCH**  
 
 **Non-pharmacological Interventions and Mass Screening for Infectious Diseases Outbreak COVID-19: Cost-effiectiveness Analysis**
 
@@ -60,9 +58,9 @@ tags:
 >
 > Conducted a cost-effectiveness analysis with the number of infections prevented, deaths, and incremental cost-effectiveness ratios (ICERs) as indicators
 
-## **PROJECTS**
-
 ------
+
+## **PROJECTS**
 
 **Financial Investment Analysis Practical Training       **
 
@@ -80,6 +78,8 @@ tags:
 > Listed ten strategic models in the strategic analysis phase, and applied SWOT, PEST, and Boston Matrix for analysis
 >
 
+------
+
 ## **STUDENT WORK**           
 
 ##### **Macau Social Practice Group | Head of Advertising Department **
@@ -89,6 +89,8 @@ tags:
 > Designed posters, banners, exhibition boards, public website layouts, etc. 
 >
 > Regularly held software teaching classes on PS, AI, PR, AE, etc.
+
+------
 
 ## **RELEVANT SKILLS**    
 
@@ -103,6 +105,8 @@ tags:
 ------
 
 
+
+------
 
 This is the code I wrote while working at Baidu👇
 
