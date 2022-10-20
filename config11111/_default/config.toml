@@ -2,7 +2,9 @@
 baseurl = "https://demo.stack.jimmycai.com"
 languageCode = "en-us"
 paginate = 5
-title = "Hydra Huo's  Blog"
+theme = "hugo-theme-stack"
+
+title = "Hydra Huo's  Blog1"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -14,3 +16,7 @@ hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
+
+
+
+

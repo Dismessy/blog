@@ -12,7 +12,7 @@ tags:
     - My University
 ---
 
-## [澳门科技大学官网](https://www.must.edu.mo/)
+## [Macau University of Science and Technology official website](https://www.must.edu.mo/)
 
 ------
 
