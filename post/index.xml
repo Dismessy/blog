@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hydra-Huo's Blog</title><link>https://example.com/post/</link><description>Recent content in Posts on Hydra-Huo's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Education</title><link>https://example.com/p/hello-world/</link><pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate><guid>https://example.com/p/hello-world/</guid><description>&lt;img src="https://example.com/p/hello-world/cover.jpg" alt="Featured image of post Education" />&lt;h2 id="macau-university-of-science-and-technology-official-websitehttpswwwmustedumo">&lt;a class="link" href="https://www.must.edu.mo/" target="_blank" rel="noopener"
+>Macau University of Science and Technology official website&lt;/a>&lt;/h2>
+&lt;hr>
+&lt;ul>
+&lt;li>
+&lt;h3 id="macaos-largest-comprehensive-university">Macao&amp;rsquo;s largest comprehensive university&lt;/h3>
+&lt;/li>
+&lt;li>
+&lt;h3 id="top-250-universities-in-the-world">Top 250 universities in the world&lt;/h3>
+&lt;/li>
+&lt;li>
+&lt;h3 id="top-20-universities-across-the-taiwan-straits-and-hong-kong-and-macao">Top 20 universities across the Taiwan Straits and Hong Kong and Macao&lt;/h3>
+&lt;/li>
+&lt;/ul></description></item><item><title>My Resume</title><link>https://example.com/p/hydra-huo/</link><pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate><guid>https://example.com/p/hydra-huo/</guid><description>&lt;img src="https://example.com/p/hydra-huo/cover.jpg" alt="Featured image of post My Resume" />&lt;h2 id="heading">&lt;/h2>
+&lt;hr>
+&lt;h2 id="education">&lt;strong>EDUCATION&lt;/strong>&lt;/h2>
+&lt;h4 id="macau-university-of-science-and-technology-business-school">&lt;strong>Macau University of Science and Technology Business School&lt;/strong>&lt;/h4>
+&lt;p>&lt;em>&lt;strong>Bachelor of Business Administration in Marketing&lt;/strong>&lt;/em>&lt;/p>
+&lt;h5 id="major-courses-management-mathematics-microeconomics-macroeconomics-finance-management-accounting-financial-accounting-marketing-strategic-management-etc">&lt;strong>Major Courses:&lt;/strong> Management Mathematics, Microeconomics, Macroeconomics, Finance, Management Accounting, Financial Accounting, Marketing, Strategic Management, etc.&lt;/h5>
+&lt;hr>
+&lt;h2 id="internships">&lt;strong>INTERNSHIPS&lt;/strong>&lt;/h2>
+&lt;h5 id="baidu--human-resources-intern--beijing-china">Baidu | Human Resources Intern | Beijing, China&lt;/h5>
+&lt;blockquote>
+&lt;p>Responsible for posting job vacancies, screening, and contacting candidates on Baidu&amp;rsquo;s ERP intranet, Boss zhipin, Zhaopin, Liepin, and other online recruitment websites&lt;/p>
+&lt;p>Assisted in interviewing candidates: followed up the interview process; recorded and collated interview notes&lt;/p>
+&lt;p>Used Python to write a greeting program for Boss zhipin to automatically screen candidates who meet the job requirements and take the initiative to contact them to indicate the salary and job description&lt;/p>
+&lt;p>Recruited two E8 level candidates and seven E7 level candidates with a total of 21 people for Baidu&amp;rsquo;s sales department&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>Dana Times Technology Group Co., Ltd. | Intern of Marketing Department | Beijing, China&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>Analyze the keywords, clicks, visits, conversion rate, matching method and door-to-door rate of each SEM channel of Dana&amp;rsquo;s adult education product line, and make a daily keyword report;&lt;/p>
+&lt;p>Assist in the market research activities of &amp;ldquo;employment start-up&amp;rdquo; at the trainee meeting, and write the research and analysis report.&lt;/p>
+&lt;p>Regularly collate all kinds of data reports by PowerBI, and assist the decision makers in the marketing department to grasp the market trends.&lt;/p>
+&lt;p>Assist in planning the meeting activities of &amp;ldquo;100 Enterprises&amp;rdquo; large-scale employment college, export the activity planning scheme and participate in the implementation of the activity site.&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="academic-research">&lt;strong>ACADEMIC RESEARCH&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>Non-pharmacological Interventions and Mass Screening for Infectious Diseases Outbreak COVID-19: Cost-effiectiveness Analysis&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>Completed paper as a co-author, submitted to SCI&lt;/p>
+&lt;p>Cited journal and government website data as parameters for a Markov chain-based SEIR model&lt;/p>
+&lt;p>Employed treeage pro to simulate the one-year transmission of COVID-19 in Wuhan&lt;/p>
+&lt;p>Conducted a cost-effectiveness analysis with the number of infections prevented, deaths, and incremental cost-effectiveness ratios (ICERs) as indicators&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="projects">&lt;strong>PROJECTS&lt;/strong>&lt;/h2>
+&lt;h5 id="financial-investment-analysis-practical-training-------">**Financial Investment Analysis Practical Training **&lt;/h5>
+&lt;blockquote>
+&lt;p>Chose ten stocks in different sectors to conduct portfolio analysis using Mean-Variance Analysis and Efficient Frontier&lt;/p>
+&lt;p>Imported historical data downloaded from Yahoo Finance into excel to calculate functions to construct a full covariance matrix based on monthly returns&lt;/p>
+&lt;p>Divided returns into 21 stocks based on Markowitz portfolio theory, calculated the corresponding minimum risk for each stock and plotted the risk-return&lt;/p>
+&lt;/blockquote>
+&lt;h5 id="kpmg-business-competition--------------------">**KPMG Business Competition **&lt;/h5>
+&lt;blockquote>
+&lt;p>Collected relevant data to assess the dynamics of ByteDance and attempted to give global strategy recommendations&lt;/p>
+&lt;p>Listed ten strategic models in the strategic analysis phase, and applied SWOT, PEST, and Boston Matrix for analysis&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="student-work">&lt;strong>STUDENT WORK&lt;/strong>&lt;/h2>
+&lt;h5 id="macau-social-practice-group--head-of-advertising-department-">**Macau Social Practice Group | Head of Advertising Department **&lt;/h5>
+&lt;blockquote>
+&lt;p>Responsible for writing promotional copy, leading the members to shoot and process videos and photos of various activities, with an average view of 4k+&lt;/p>
+&lt;p>Designed posters, banners, exhibition boards, public website layouts, etc.&lt;/p>
+&lt;p>Regularly held software teaching classes on PS, AI, PR, AE, etc.&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="relevant-skills">&lt;strong>RELEVANT SKILLS&lt;/strong>&lt;/h2>
+&lt;blockquote>
+&lt;p>Language ability: CET-4, CET-6, IELTS 6.5 Teaching in English during the undergraduate period&lt;/p>
+&lt;p>Master: Windows Office, PS, AI, SAI, Procreate&lt;/p>
+&lt;p>Know all about: Python,SQL,R language,PR,AE, Power BI, Markdown,E-prime&lt;/p>
+&lt;p>Understand:LaTex,CSS language&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;hr>
+&lt;p>This is the code I wrote while working at Baidu👇&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;span class="lnt">33
+&lt;/span>&lt;span class="lnt">34
+&lt;/span>&lt;span class="lnt">35
+&lt;/span>&lt;span class="lnt">36
+&lt;/span>&lt;span class="lnt">37
+&lt;/span>&lt;span class="lnt">38
+&lt;/span>&lt;span class="lnt">39
+&lt;/span>&lt;span class="lnt">40
+&lt;/span>&lt;span class="lnt">41
+&lt;/span>&lt;span class="lnt">42
+&lt;/span>&lt;span class="lnt">43
+&lt;/span>&lt;span class="lnt">44
+&lt;/span>&lt;span class="lnt">45
+&lt;/span>&lt;span class="lnt">46
+&lt;/span>&lt;span class="lnt">47
+&lt;/span>&lt;span class="lnt">48
+&lt;/span>&lt;span class="lnt">49
+&lt;/span>&lt;span class="lnt">50
+&lt;/span>&lt;span class="lnt">51
+&lt;/span>&lt;span class="lnt">52
+&lt;/span>&lt;span class="lnt">53
+&lt;/span>&lt;span class="lnt">54
+&lt;/span>&lt;span class="lnt">55
+&lt;/span>&lt;span class="lnt">56
+&lt;/span>&lt;span class="lnt">57
+&lt;/span>&lt;span class="lnt">58
+&lt;/span>&lt;span class="lnt">59
+&lt;/span>&lt;span class="lnt">60
+&lt;/span>&lt;span class="lnt">61
+&lt;/span>&lt;span class="lnt">62
+&lt;/span>&lt;span class="lnt">63
+&lt;/span>&lt;span class="lnt">64
+&lt;/span>&lt;span class="lnt">65
+&lt;/span>&lt;span class="lnt">66
+&lt;/span>&lt;span class="lnt">67
+&lt;/span>&lt;span class="lnt">68
+&lt;/span>&lt;span class="lnt">69
+&lt;/span>&lt;span class="lnt">70
+&lt;/span>&lt;span class="lnt">71
+&lt;/span>&lt;span class="lnt">72
+&lt;/span>&lt;span class="lnt">73
+&lt;/span>&lt;span class="lnt">74
+&lt;/span>&lt;span class="lnt">75
+&lt;/span>&lt;span class="lnt">76
+&lt;/span>&lt;span class="lnt">77
+&lt;/span>&lt;span class="lnt">78
+&lt;/span>&lt;span class="lnt">79
+&lt;/span>&lt;span class="lnt">80
+&lt;/span>&lt;span class="lnt">81
+&lt;/span>&lt;span class="lnt">82
+&lt;/span>&lt;span class="lnt">83
+&lt;/span>&lt;span class="lnt">84
+&lt;/span>&lt;span class="lnt">85
+&lt;/span>&lt;span class="lnt">86
+&lt;/span>&lt;span class="lnt">87
+&lt;/span>&lt;span class="lnt">88
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">selenium&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">webdriver&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">selenium.webdriver.common.action_chains&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">ActionChains&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">random&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">time&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#打开浏览器&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">driver&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">webdriver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">Chrome&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s1">&amp;#39;D:\chromedriver.exe&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">maximize_window&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">implicitly_wait&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#扫码登录&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">login_link&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s1">&amp;#39;https://login.zhipin.com/?ka=header-login&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">get&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">login_link&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">time&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sleep&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">8&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#转到推荐牛人页面&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">find_element_by_class_name&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;icon-menu-recommend&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">click&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">time&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sleep&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#人选筛选条件标记，此函数仅做测试之用&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">markElement&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">driver&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">element&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">execute_script&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;arguments[0].setAttribute(&amp;#39;style&amp;#39;,arguments[1]);&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">element&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="s2">&amp;#34;border:2px solid red;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#选择岗位函数&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">select&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#d点击下拉菜单&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">dropdown&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">find_element_by_xpath&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;/html/body/div[1]/div[1]/div/div/div[2]/div[2]/span&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">ActionChains&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">driver&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">click&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">dropdown&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">perform&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">#选择具体岗位&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">selectxpath&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s1">&amp;#39;/html/body/div[1]/div[1]/div/div/div[2]/div[2]/div/ul/li[&amp;#39;&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="nb">str&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">x&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="s1">&amp;#39;]&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">select&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">find_element_by_xpath&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">selectxpath&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">global&lt;/span> &lt;span class="n">position&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">position&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">select&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">text&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">ActionChains&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">driver&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">click&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">select&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">perform&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;现在筛选的岗位是：&amp;#34;&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="n">position&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">time&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sleep&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#先加载页面，之后才能定位到元素&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">load&lt;/span>&lt;span class="p">():&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">i&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">while&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">15&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">execute_script&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;var q=document.documentElement.scrollTop=10000&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">execute_script&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;window.scrollBy(0,500)&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">time&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sleep&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;加载第&amp;#34;&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="nb">str&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="s2">&amp;#34;页&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">i&lt;/span> &lt;span class="o">+=&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#打招呼(每个岗位50人，筛选后打招呼)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">greet&lt;/span>&lt;span class="p">():&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">i&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">while&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">50&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="c1">#筛选条件：1年龄、2未打招呼的&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">try&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">greetxpath&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;/html/body/div/div/div/div/div[2]/div/div/div/div/ul/li[&amp;#34;&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="nb">str&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="s2">&amp;#34;]/div/div/div[2]/div/span/button&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">greetele&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">find_element_by_xpath&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">greetxpath&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">greet&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">greetele&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">text&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">agexpath&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;/html/body/div/div/div/div/div[2]/div/div/div/div/ul/li[&amp;#34;&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="nb">str&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="s2">&amp;#34;]/div/div/div[3]/div[2]/div[2]/span[1]&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">ageele&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">find_element_by_xpath&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">agexpath&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">agestr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">ageele&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">text&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">age&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">int&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">agestr&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="p">])&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="mi">18&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="n">age&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">31&lt;/span> &lt;span class="ow">and&lt;/span> &lt;span class="n">greet&lt;/span> &lt;span class="o">!=&lt;/span> &lt;span class="s2">&amp;#34;继续沟通&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">markElement&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">driver&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">ageele&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">rt&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">random&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">randint&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">5&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">time&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sleep&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">rt&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="c1">#判断条件符合含，不定时打招呼，避免被识别为机器&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">markElement&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">driver&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">greetele&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">ActionChains&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">driver&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">click&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">greetele&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">perform&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="c1">#测试时可先注释掉&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">execute_script&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;window.scrollBy(0,200)&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;第&lt;/span>&lt;span class="si">%d&lt;/span>&lt;span class="s2">个符合,&amp;#34;&lt;/span>&lt;span class="o">%&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">end&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;年龄&lt;/span>&lt;span class="si">%s&lt;/span>&lt;span class="s2">.&amp;#34;&lt;/span>&lt;span class="o">%&lt;/span>&lt;span class="n">agestr&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;第&lt;/span>&lt;span class="si">%d&lt;/span>&lt;span class="s2">个不符合,&amp;#34;&lt;/span>&lt;span class="o">%&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="n">end&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;年龄&lt;/span>&lt;span class="si">%s&lt;/span>&lt;span class="s2">.&amp;#34;&lt;/span>&lt;span class="o">%&lt;/span>&lt;span class="n">agestr&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">except&lt;/span> &lt;span class="ne">ValueError&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;第&lt;/span>&lt;span class="si">%d&lt;/span>&lt;span class="s2">个没有年龄&amp;#34;&lt;/span>&lt;span class="o">%&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">i&lt;/span> &lt;span class="o">+=&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#完成以上任务&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">task&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">y&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">select&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">y&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">switch_to&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">frame&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;syncFrame&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">load&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">time&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sleep&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">execute_script&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;var q=document.documentElement.scrollTop=0&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">time&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sleep&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">greet&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">time&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sleep&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">driver&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">switch_to&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">default_content&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#自动打招呼走起&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">i&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">while&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">8&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="c1">#假设有6个岗位&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="mi">4&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">i&lt;/span> &lt;span class="o">+=&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">continue&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">task&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;完成--&amp;#34;&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="n">position&lt;/span>&lt;span class="o">+&lt;/span>&lt;span class="s2">&amp;#34;--岗位。&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">i&lt;/span> &lt;span class="o">+=&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>My Personality</title><link>https://example.com/p/first-world/</link><pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate><guid>https://example.com/p/first-world/</guid><description>&lt;img src="https://example.com/p/first-world/cover.jpg" alt="Featured image of post My Personality" />&lt;h2 id="about-me">About Me&lt;/h2>
+&lt;p>&lt;img src="https://example.com/p/first-world/enfj.jpg"
+width="1019"
+height="427"
+srcset="https://example.com/p/first-world/enfj_hud5ea53771e2e61d30b0596a18366543b_82134_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-world/enfj_hud5ea53771e2e61d30b0596a18366543b_82134_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="238"
+data-flex-basis="572px"
+>&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-world/enfj2.png"
+width="1019"
+height="427"
+srcset="https://example.com/p/first-world/enfj2_hufa67873423797079b0de2c0304c55025_152184_480x0_resize_box_3.png 480w, https://example.com/p/first-world/enfj2_hufa67873423797079b0de2c0304c55025_152184_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="enfj2"
+class="gallery-image"
+data-flex-grow="238"
+data-flex-basis="572px"
+>&lt;/p>
+&lt;ul>
+&lt;li>ENFJ stands for: extroversion (E)+ intuition (N)+ emotion (F)+ judgment (J).&lt;/li>
+&lt;li>ENFJ refers to the supplier.&lt;/li>
+&lt;li>Supply is the act of providing others with daily necessities.&lt;/li>
+&lt;li>Suppliers are naturally keen on serving others to ensure that they have a sense of material sufficiency and group belonging.&lt;/li>
+&lt;/ul></description></item><item><title>My story</title><link>https://example.com/p/first-pos/</link><pubDate>Sun, 16 Oct 2022 09:00:00 +0000</pubDate><guid>https://example.com/p/first-pos/</guid><description>&lt;img src="https://example.com/p/first-pos/cover.jpg" alt="Featured image of post My story" />&lt;h3 id="i-usually-rely-on-my-hobbies-to-kill-the-time">I Usually Rely On My hobbies To Kill The Time.&lt;/h3>
+&lt;hr>
+&lt;h2 id="painting">Painting&lt;/h2>
+&lt;blockquote>
+&lt;p>I sometimes draw original characters 👇&lt;img src="https://example.com/p/first-pos/11.jpg"
+width="1248"
+height="1134"
+srcset="https://example.com/p/first-pos/11_huc7d1ef7d9e723c985b05b18aaf4c940b_202580_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/11_huc7d1ef7d9e723c985b05b18aaf4c940b_202580_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="110"
+data-flex-basis="264px"
+>&lt;/p>
+&lt;p>This is a blackboard poster I drew in junior high school 👇&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/22.jpg"
+width="1240"
+height="622"
+srcset="https://example.com/p/first-pos/22_hucbbfb8279689a792c714d49cd209077b_183244_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/22_hucbbfb8279689a792c714d49cd209077b_183244_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="199"
+data-flex-basis="478px"
+>&lt;/p>
+&lt;p>I also do a few doodles during breaks 👇&lt;img src="https://example.com/p/first-pos/33.jpg"
+width="3017"
+height="3497"
+srcset="https://example.com/p/first-pos/33_hua008cf2e1e27a54ba877238b69d8c02d_8746094_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/33_hua008cf2e1e27a54ba877238b69d8c02d_8746094_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="86"
+data-flex-basis="207px"
+>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="original-design">Original Design&lt;/h2>
+&lt;blockquote>
+&lt;p>I like to use ps or ai for text typesetting and design👇&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/1.jpg"
+width="476"
+height="718"
+srcset="https://example.com/p/first-pos/1_hu17411a5dc670e476d5d3a1baac1b2ee8_295217_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/1_hu17411a5dc670e476d5d3a1baac1b2ee8_295217_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="1"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="159px"
+>&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/44.jpg"
+width="554"
+height="737"
+srcset="https://example.com/p/first-pos/44_hu8eed9ea6b1396f242761c80795d8236e_361755_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/44_hu8eed9ea6b1396f242761c80795d8236e_361755_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="abab07f1b90894f0aada8be85ac0d6d"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/55.jpg"
+width="1070"
+height="347"
+srcset="https://example.com/p/first-pos/55_hu57fa395c739e9f73fa55e595bb3b68a7_617670_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/55_hu57fa395c739e9f73fa55e595bb3b68a7_617670_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="1d71336d0c1a9852e98dccbf88deebb"
+class="gallery-image"
+data-flex-grow="308"
+data-flex-basis="740px"
+>&lt;/p>
+&lt;hr>
+&lt;h2 id="shooting">shooting&lt;/h2>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>The weight of the sniper rifle keeps me safe and high&lt;img src="https://example.com/p/first-pos/66.jpg"
+width="1440"
+height="1080"
+srcset="https://example.com/p/first-pos/66_hu3a494a2e47cd75a0acb63b7285f060ab_526002_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/66_hu3a494a2e47cd75a0acb63b7285f060ab_526002_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="role-playing-gamefirst-person-shooting-game">Role-Playing Game/First-Person Shooting Game&lt;/h2>
+&lt;blockquote>
+&lt;p>I got top 500 China servers in the 11th and 12th seasons of Overwatch👇&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/77.jpg"
+width="1170"
+height="1888"
+srcset="https://example.com/p/first-pos/77_huc6745445edb5ba2f9f8ad7186c1209c3_210117_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/77_huc6745445edb5ba2f9f8ad7186c1209c3_210117_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="61"
+data-flex-basis="148px"
+>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="pet">Pet&lt;/h2>
+&lt;blockquote>
+&lt;p>I love small animals and have Caucasian dogs, Siamese cats, flower mice, sugar gliders and Canopies&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/99.jpg"
+width="720"
+height="792"
+srcset="https://example.com/p/first-pos/99_hu35d66c5c7474d14242b3c0e2a0527c08_112176_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/99_hu35d66c5c7474d14242b3c0e2a0527c08_112176_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="99"
+class="gallery-image"
+data-flex-grow="90"
+data-flex-basis="218px"
+>&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/88.jpg"
+width="1146"
+height="1080"
+srcset="https://example.com/p/first-pos/88_hu2974cbf146843c37166ce06fcbd10244_236447_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/88_hu2974cbf146843c37166ce06fcbd10244_236447_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="88"
+class="gallery-image"
+data-flex-grow="106"
+data-flex-basis="254px"
+>&lt;/p>
+&lt;hr>
+&lt;h2 id="carving">Carving&lt;/h2>
+&lt;blockquote>
+&lt;p>I sometimes carve some seals👇&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/19.jpg"
+width="1249"
+height="1298"
+srcset="https://example.com/p/first-pos/19_hu3dd1ed62edaff6bd8224ae92fd84b9ab_415377_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/19_hu3dd1ed62edaff6bd8224ae92fd84b9ab_415377_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="96"
+data-flex-basis="230px"
+>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="clay">Clay&lt;/h2>
+&lt;blockquote>
+&lt;p>I sometimes pinch the clay👇&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/12.jpg"
+width="816"
+height="761"
+srcset="https://example.com/p/first-pos/12_hu21fd315eb7bf175017964ba151516dcd_42639_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/12_hu21fd315eb7bf175017964ba151516dcd_42639_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="12"
+class="gallery-image"
+data-flex-grow="107"
+data-flex-basis="257px"
+>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="sculpturing-modeling">Sculpturing modeling&lt;/h2>
+&lt;blockquote>
+&lt;p>I love cartoon characters, so I use Nomad to model them👇&lt;/p>
+&lt;p>&lt;img src="https://example.com/p/first-pos/34.jpg"
+width="1046"
+height="800"
+srcset="https://example.com/p/first-pos/34_hucdcaed382667855465297407dcc95b26_107576_480x0_resize_q75_box.jpg 480w, https://example.com/p/first-pos/34_hucdcaed382667855465297407dcc95b26_107576_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="34"
+class="gallery-image"
+data-flex-grow="130"
+data-flex-basis="313px"
+>&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;/blockquote></description></item><item><title>Contact</title><link>https://example.com/p/first-post/</link><pubDate>Fri, 14 Oct 2022 09:00:00 +0000</pubDate><guid>https://example.com/p/first-post/</guid><description>&lt;img src="https://example.com/p/first-post/cover.jpg" alt="Featured image of post Contact" />&lt;h2 id="my-email-address">My email address:&lt;/h2>
+&lt;blockquote>
+&lt;ul>
+&lt;li>
+&lt;h4 id="19098537b011049studentmustedumo">&lt;a class="link" href="mailto:19098537B011049@student.must.edu.mo" >19098537B011049@student.must.edu.mo&lt;/a>&lt;/h4>
+&lt;/li>
+&lt;li>
+&lt;h4 id="2893662056qqcom">&lt;a class="link" href="mailto:2893662056@qq.com" >2893662056@qq.com&lt;/a>&lt;/h4>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2 id="my-mobile-phone">My mobile phone：&lt;/h2>
+&lt;blockquote>
+&lt;ul>
+&lt;li>
+&lt;h4 id="86-13199120666">+86-13199120666&lt;/h4>
+&lt;/li>
+&lt;li>
+&lt;h4 id="86-13512653555">+86-13512653555&lt;/h4>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote></description></item></channel></rss>
